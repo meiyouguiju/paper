@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{\mbox{#1}}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{cnproceed}
+\bibauthor{{Young-Shin Kang}\@, {Bum-Jin Park}\@, {Chang-Sun Yoo}, et~al}\@.
+  \bibtitle{Ground test results of rotor governor and rate SAS for small tilt
+  rotor UAV}\bibmark{[C]} //\thinspace{}\bibbooktitle{2007 International
+  Conference on Control, Automation and Systems}\@.
+  \bibyear{2007}\thinspace{}\textnormal{: }\bibpages{830\textnormal{-}835}\@.
+
+\bibitem{cnarticle}
+\bibauthor{{Keyworth} S\@, {Wolfe} S}\@. \bibtitle{UAVS for land use
+  applications: UAVs in the civilian airspace institution of engineering and
+  technology}\bibmark{[C]} //\thinspace{}\bibbooktitle{IET Seminar on UAVs in
+  the Civilian Airspace}\@. \bibyear{2013}\thinspace{}\textnormal{:
+  }\bibpages{1\textnormal{-}13}\@.
+
+\bibitem{hithesis2017}
+\bibauthor{Chu Y}\@. \bibtitle{Hi!Thesis!,Harbin Institue of
+  Technology}\bibmark{[J]}\@. \bibjournal{Github}\@, \bibyear{2017}\@,
+  \bibvolume{001}\bibnumber{(0001)}\thinspace{}\textnormal{:
+  }\bibpages{000\textnormal{-}999}\@.
+
+\end{thebibliography}
