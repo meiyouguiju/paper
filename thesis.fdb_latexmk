@@ -1,5 +1,5 @@
 # Fdb version 3
-["bibtex thesis"] 1601822994 "thesis.aux" "thesis.bbl" "thesis" 1601822994
+["bibtex thesis"] 1601898295 "thesis.aux" "thesis.bbl" "thesis" 1601901266
   "./hithesis.bst" 1601820883 138467 61f231407cd3a685593a75c845098b62 ""
   "g:/graduatepj/final/paper/back/acknowledgements.aux" 1601820884 2842 bc97467b8930599690187bda641ee7dd ""
   "g:/graduatepj/final/paper/back/ceindex.aux" 1601820884 2780 bea980608b7b4ccee5946c0ad54891d6 ""
@@ -9,25 +9,25 @@
   "g:/graduatepj/final/paper/body/chapter1.aux" 1601820883 4936 c04dce9808a1ff2b2847e2f56f382a03 ""
   "g:/graduatepj/final/paper/body/introduction.aux" 1601820883 20801 8f696876fe87f9750200bd864f53845e ""
   "g:/graduatepj/final/paper/body/regu.aux" 1601820883 4911 695f85cf5c09009e2cfe7ff072649af8 ""
-  "reference.bib" 1601820883 1957 5c1e6c5e8f71032c9e00b4225f779241 ""
+  "reference.bib" 1601898294 447 f94abb3102e7ec49d97a743adcb17d38 ""
   "thesis.aux" 1601820883 5128 b2d2e7705c20ed10c783759342fa431a "pdflatex"
   (generated)
-  "thesis.blg"
   "thesis.bbl"
-["cusdep idx ind thesis-china"] 1601795251 "thesis-china.idx" "thesis-china.ind" "thesis-china" 1601822995
+  "thesis.blg"
+["cusdep idx ind thesis-china"] 1601795251 "thesis-china.idx" "thesis-china.ind" "thesis-china" 1601901266
   "thesis-china.idx" 1601820883 284 dc3e5fac9d4dbf5905b6f570cf8b1aff ""
   (generated)
   "thesis-china.ind"
-["cusdep idx ind thesis-english"] 1601795251 "thesis-english.idx" "thesis-english.ind" "thesis-english" 1601822995
+["cusdep idx ind thesis-english"] 1601795251 "thesis-english.idx" "thesis-english.ind" "thesis-english" 1601901266
   "thesis-english.idx" 1601820883 315 1460f02a0f0677c7608c8ba51694b277 ""
   (generated)
   "thesis-english.ind"
-["makeindex thesis.idx"] 1601794538 "thesis.idx" "thesis.ind" "thesis" 1601822994
-  "thesis.idx" 1601820883 695 c1a3c187552e43b72d1d439746a7a5f4 "pdflatex"
+["makeindex thesis.idx"] 1601794538 "thesis.idx" "thesis.ind" "thesis" 1601901266
+  "thesis.idx" 1601820883 695 c1a3c187552e43b72d1d439746a7a5f4 ""
   (generated)
-  "thesis.ilg"
   "thesis.ind"
-["pdflatex"] 1601822995 "g:/graduatepj/final/paper/thesis.tex" "g:/graduatepj/final/paper/thesis.pdf" "thesis" 1601822995
+  "thesis.ilg"
+["pdflatex"] 1601901266 "g:/graduatepj/final/paper/thesis.tex" "g:/graduatepj/final/paper/thesis.pdf" "thesis" 1601901266
   "back/acknowledgements.aux" 1601820884 2842 bc97467b8930599690187bda641ee7dd "pdflatex"
   "back/acknowledgements.tex" 1601820884 236 247f6317c0cd121f837538b2cd76a796 ""
   "back/appA.tex" 1601820884 3104 10579306c93777eeae02f98db3381616 ""
@@ -39,10 +39,10 @@
   "back/publications.tex" 1601820883 1881 5bcb206953998d38f10febac21d60542 ""
   "back/resume.aux" 1601820883 2811 48bbeba019b68ca0b53fcea75f74ccb2 "pdflatex"
   "back/resume.tex" 1601820883 712 7b6a869551b74e34aac6d0b5020d7fa5 ""
-  "body/chapter1.aux" 0 -1 0 "pdflatex"
-  "body/chapter1.tex" 1601820883 6197 83cec4419b538375f4705067aa91cf79 ""
+  "body/chapter1.aux" 1601820883 4936 c04dce9808a1ff2b2847e2f56f382a03 "pdflatex"
+  "body/chapter1.tex" 1601901264 1032 8e201f9d7237d8bcf0ccf162048543db ""
   "body/introduction.aux" 1601820883 20801 8f696876fe87f9750200bd864f53845e "pdflatex"
-  "body/introduction.tex" 1601820883 38375 c90923ca6678be115a43d5043d1861b0 ""
+  "body/introduction.tex" 1601898008 38375 c90923ca6678be115a43d5043d1861b0 ""
   "body/regu.aux" 1601820883 4911 695f85cf5c09009e2cfe7ff072649af8 "pdflatex"
   "body/regu.tex" 1601820883 6197 83cec4419b538375f4705067aa91cf79 ""
   "figures/golfer.eps" 1601820883 25501 57572ce4c1807200d7a5431b42e24e25 ""
@@ -56,23 +56,23 @@
   "thesis-china.ind" 1601820883 660 eb7ab8d92b19e36b35afafc2c81411f9 "cusdep idx ind thesis-china"
   "thesis-english.ind" 1601820883 625 2ba73f70f283f1055a925734f5c6218d "cusdep idx ind thesis-english"
   "thesis.aux" 1601820883 5128 b2d2e7705c20ed10c783759342fa431a "pdflatex"
-  "thesis.bbl" 1601822995 1916 181dc70f29a1cff1c41bcb5a58e1ea0f "bibtex thesis"
+  "thesis.bbl" 1601898296 933 bc9ec7a4127c790286fb6035eafc65ee "bibtex thesis"
   "thesis.ind" 1601820883 0 d41d8cd98f00b204e9800998ecf8427e "makeindex thesis.idx"
   "thesis.out" 1601820883 8995 90e481b8a19f3c1d99538750035c0f7a "pdflatex"
   "thesis.tex" 1601822983 8232 b29d60a4c01e1c2b5f2e805a8b82d356 ""
   "thesis.toc" 1601820882 7148 abc6beba8727d4abf80e7aa29f918ce3 "pdflatex"
   "zfb.eps" 1601820882 18635 30e4462463560720c7b72002c6a093d8 ""
   (generated)
-  "back/acknowledgements.aux"
-  "g:/graduatepj/final/paper/thesis.log"
   "back/ceindex.aux"
-  "body/regu.aux"
+  "body/introduction.aux"
+  "back/publications.aux"
+  "g:/graduatepj/final/paper/thesis.pdf"
+  "back/conclusion.aux"
+  "g:/graduatepj/final/paper/thesis.log"
+  "back/acknowledgements.aux"
+  "back/resume.aux"
   "thesis.aux"
   "thesis.out"
-  "back/resume.aux"
-  "g:/graduatepj/final/paper/thesis.pdf"
+  "body/regu.aux"
   "thesis.toc"
   "body/chapter1.aux"
-  "back/publications.aux"
-  "body/introduction.aux"
-  "back/conclusion.aux"
